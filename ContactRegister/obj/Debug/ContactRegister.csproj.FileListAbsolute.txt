@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\bin\Debug\ContactRegister.exe.config
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\bin\Debug\ContactRegister.exe
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\bin\Debug\ContactRegister.pdb
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.basicForm.resources
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.Properties.Resources.resources
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.exe
+C:\Users\Dell\source\repos\ContactRegister\ContactRegister\obj\Debug\ContactRegister.pdb
